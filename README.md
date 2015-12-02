@@ -1,5 +1,5 @@
 # Bomber
-Inspired by an old Amiga game called "Blip 2 player flying fun", Bomber is a two player game built using Java.
+Inspired by an old Amiga game called "Biplanes", Bomber is a two player game built using Java.
 
 I coded this game during a three day Java training course I had at IBM, I got bored in the first ten minutes and decided to have some fun :)
 
